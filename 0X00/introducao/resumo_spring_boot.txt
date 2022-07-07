@@ -1,0 +1,5 @@
+Spring boot é um framework open source que visa reduzir o tempo gasto com as configurações iniciais de uma aplicação, com ele conseguimos facilitar configurações como injeção de dependências, servidores, bibliotecas e etc.
+Quando utilizamos o spring temos alguns benefícios como o fornecimento de requisitos não funcionais pré-configurados, oferecer um inicio de projeto mais rápido e direto, zerar a necessidade de arquivos xml entre outros.
+O Spring Framework implementa injeção de dependências através de um container chamado Spring IoC Container, esse container gerencia automaticamente todas as dependências do projeto.
+Para utilizar o spring podemos utilizar diversas ides, entre as melhores temos o intellij, por conta da facilidade de instalar extensões.
+E por fim para começar a utilizar o spring, precisamos iniciar o projeto spring, através do spring initializr, onde ele ira gerar um projeto gradle ou maven pré-configurado, bastando começar a desenvolver.
